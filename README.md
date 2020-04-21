@@ -5,7 +5,7 @@ In this project, classification of handwritten digits will be performed using th
 Images of digits will be obtained from the MNIST dataset, containing 60,000 training images and 10,000 testing images of digits written by students and employees.
 
 Table of content:
-1. Classification with Keras
+**1. Classification with Keras**
 
   1.1. Importing required libraries / packages  
   1.2. Loading the data  
@@ -18,7 +18,7 @@ Table of content:
   1.7. Exploring Model's Confusion Matrix  
   1.8. Saving and reloading the model  
 
-2. Classification with Scikit-learn
+**2. Classification with Scikit-learn**
 
   2.1. Dimensionality reduction and data visualization  
   2.2. Digit Classification using Gaussian Naive Bayes model  
