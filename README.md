@@ -5,6 +5,7 @@ In this project, classification of handwritten digits will be performed using th
 Images of digits will be obtained from the MNIST dataset, containing 60,000 training images and 10,000 testing images of digits written by students and employees.
 
 Table of content:
+
 **1. Classification with Keras**
 
   1.1. Importing required libraries / packages  
