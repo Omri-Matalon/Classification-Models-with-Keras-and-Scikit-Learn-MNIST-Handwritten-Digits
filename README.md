@@ -6,6 +6,7 @@ Images of digits will be obtained from the MNIST dataset, containing 60,000 trai
 
 Table of content:
 1. Classification with Keras
+
   1.1. Importing required libraries / packages  
   1.2. Loading the data  
   1.3. Checking the shape of data sets  
@@ -18,6 +19,7 @@ Table of content:
   1.8. Saving and reloading the model  
 
 2. Classification with Scikit-learn
+
   2.1. Dimensionality reduction and data visualization  
   2.2. Digit Classification using Gaussian Naive Bayes model  
   2.3. Digits Classification using Random Forest  
